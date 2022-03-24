@@ -1,6 +1,9 @@
 <h1 align="center"> Hello World   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40em></h1>
 
 <p>
+  
+  ![](https://komarev.com/ghpvc/?username=De-Marqui&style=for-the-badge) 
+  <br><br>
   <b> Victor De Marqui </b> <br>
   <sup> Oi, eu sou o Vitu! </sup> 
 
