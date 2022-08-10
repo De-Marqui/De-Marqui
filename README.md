@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40em></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=40em> <br>Hello World</h1>
 
 <p>
   
